@@ -1,1 +1,34 @@
-
+{
+  "title": "Bob. The Comic",
+  "description": "A spin-off comic of an animated series that follows the life of three friends in a desolate place called the VOID",
+  "artist": "loldoggus",
+  "author": "loldoggus",
+  "cover": "https://raw.githubusercontent.com/loldoggus/bob_onlinecomic/main/main_overall_comiccover.png",
+  "chapters": {
+    "1": {
+      "title": "A Little Introduction",
+      "volume": "",
+      "last_updated": "1746220340",
+      "groups": {
+        "": [
+          "https://raw.githubusercontent.com/loldoggus/bob_onlinecomic/main/issue1/coverissue1.png",
+          "https://raw.githubusercontent.com/loldoggus/bob_onlinecomic/main/issue1/page1issue1.png",
+          "https://raw.githubusercontent.com/loldoggus/bob_onlinecomic/main/issue1/page2issue1.png",
+          "https://raw.githubusercontent.com/loldoggus/bob_onlinecomic/main/issue1/page3issue1.png",
+          "https://raw.githubusercontent.com/loldoggus/bob_onlinecomic/main/issue1/page4issue1.png",
+          "https://raw.githubusercontent.com/loldoggus/bob_onlinecomic/main/issue1/page5issue1.png",
+          "https://raw.githubusercontent.com/loldoggus/bob_onlinecomic/main/issue1/page6issue1.png",
+          "https://raw.githubusercontent.com/loldoggus/bob_onlinecomic/main/issue1/page7issue1.png",
+          "https://raw.githubusercontent.com/loldoggus/bob_onlinecomic/main/issue1/page8issue1.png",
+          "https://raw.githubusercontent.com/loldoggus/bob_onlinecomic/main/issue1/page9issue1.png",
+          "https://raw.githubusercontent.com/loldoggus/bob_onlinecomic/main/issue1/page10issue1.png",
+          "https://raw.githubusercontent.com/loldoggus/bob_onlinecomic/main/issue1/page11issue1.png",
+          "https://raw.githubusercontent.com/loldoggus/bob_onlinecomic/main/issue1/page12issue1.png",
+          "https://raw.githubusercontent.com/loldoggus/bob_onlinecomic/main/issue1/page13issue1.png",
+          "https://raw.githubusercontent.com/loldoggus/bob_onlinecomic/main/issue1/page14issue1.png",
+          "https://raw.githubusercontent.com/loldoggus/bob_onlinecomic/main/issue1/page15issue1.png"
+        ]
+      }
+    }
+  }
+}
